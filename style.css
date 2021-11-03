@@ -1,0 +1,252 @@
+*{
+    margin:0;
+    padding:0;
+     
+}
+body{
+    margin:0px;
+    margin-top:5px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(247, 245, 243);
+    width:100%;
+    height:400px;
+}
+.info{
+    background-color: rgb(37, 47, 179);
+    margin: 10px;
+    padding:5px;
+    font-size: 15px;
+    width: 100%;
+     
+    
+}
+#icon i.fas.fa-phone-alt{
+    margin-left: 10px;
+    color:black;
+
+}
+#icon i.fas.fa-envelope{
+    margin-left: 25px;
+    color: black;
+    
+}
+#icon i a.fab.fa-instagram{
+    margin-left: 50%;
+    color: black;
+    font-size: 18px;
+    padding:5px;
+    text-decoration: none;
+}
+#icon i a.fab.fa-youtube{
+    margin-left: 2%;
+    color:black;
+    font-size: 18px;
+    padding:5px;
+    text-decoration: none;
+
+}
+#icon i a.fab.fa-facebook{
+    margin-left: 2%;
+    color: black;
+    font-size: 18px;
+    padding:5px;
+    text-decoration: none;
+
+}
+#icon i a.fab.fa-twitter{
+    margin-left: 2%;
+    color: black;
+    font-size: 18px;
+    padding:5px;
+    text-decoration: none;
+
+}
+.navbar{
+    padding: 0px 0px;
+    margin-top:0px;
+    height:0%;
+    background-color:transparent!important; 
+    width:100%;
+     
+}
+.navbar-nav{
+    margin-top:5px;
+    line-height:25px;
+    letter-spacing: 3px;
+    color:black;
+    font-size: 18px;
+    background-color: rgb(37, 47, 179);
+    width:100%;
+}
+.navbar-nav  li {
+    color:black;
+    font-size: 18px;
+     
+    
+}
+ 
+.btn{
+    color:black;
+    background-color: rgb(37, 47, 179);
+    
+}
+
+.carousel-item{
+    margin-top: 5%;
+    width:100%;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(51, 50, 50);
+    font-family: Tahoma;
+    margin-top:25px;
+    letter-spacing: 1px;
+}
+p{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(68, 68, 68);
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(51, 50, 50);
+    font-family: Tahoma;
+    margin-top:35px;
+    letter-spacing: 1px;
+}
+
+.row{
+    margin-left: 3px;
+    height:50px;
+}
+.col{
+    height:40%;
+     
+}
+.card-title{
+    color:rgb(77, 74, 74);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.file{
+    margin-left: 20px;
+    color: rgb(187, 14, 23);
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+}
+ 
+.coba{
+    display: none;
+    width:0%;
+}
+.fas.fa-download{
+    font-size: 25px;
+}
+.fas.fa-link{
+    font-size: 25px;
+}
+.download a {
+    font-size: 18px;
+    text-align: left;
+    color: rgb(77, 74, 74);
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+     
+}
+.download a i{
+    font-size: 18px;
+    text-align: left;
+    color: rgb(77, 74, 74);
+    margin-top: 5px;
+       
+}
+.far.fa-file-pdf{
+    font-size: 17px;
+}
+.fas.fa-external-link-alt{
+    font-size: 17px;
+}
+.link a {
+    font-size: 18px;
+    text-align: left;
+    color: rgb(77, 74, 74);
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    
+}
+.link a i{
+    font-size: 18px;
+    text-align: left;
+    color: rgb(77, 74, 74);
+    margin-top: 5px;
+     
+    
+}
+.footer{
+    background-color: rgb(37, 47, 179);
+    width: 100%;
+    margin-top: 240px;
+
+
+     
+}
+.lokasi{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.col-2{
+    margin-top: 10px;
+     
+}
+h1{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:white;
+}
+h1 span{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:rgb(247, 243, 20);
+}
+h4{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color:white;
+}
+.maps{
+    margin-left:40%;
+}
+.kaki {
+    background-color: black;
+    width: 100%;
+    height:30px;
+   
+}
+.kaki h5{
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+ 
+  
+  

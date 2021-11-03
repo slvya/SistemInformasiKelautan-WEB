@@ -1,0 +1,247 @@
+*{
+    margin:0;
+    padding:0;
+     
+}
+body{
+    margin:0px;
+    margin-top:5px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(247, 245, 243);
+    width:100%;
+    height:400px;
+}
+.info{
+    background-color: rgb(37, 47, 179);
+    margin: 10px;
+    padding:5px;
+    font-size: 15px;
+    width: 100%;
+     
+    
+}
+#icon i.fas.fa-phone-alt{
+    margin-left: 10px;
+    color:black;
+}
+#icon i.fas.fa-envelope{
+    margin-left: 25px;
+    color: black;
+    
+}
+#icon i a.fab.fa-instagram{
+    margin-left: 55%;
+    color: black;
+    font-size: 15px;
+    padding:5px;
+}
+#icon i a.fab.fa-youtube{
+    margin-left: 2%;
+    color:black;
+    font-size: 15px;
+    padding:5px;
+}
+#icon i a.fab.fa-facebook{
+    margin-left: 2%;
+    color: black;
+    font-size: 15px;
+    padding:5px;
+}
+#icon i a.fab.fa-twitter{
+    margin-left: 2%;
+    color: black;
+    font-size: 15px;
+    padding:5px;
+}
+.navbar{
+    padding: 0px 0px;
+    margin-top:0px;
+    height:0%;
+    background-color:transparent!important; 
+    width:100%;
+     
+}
+.navbar-nav{
+    margin-top:2px;
+    line-height:20px;
+    letter-spacing: 3px;
+    color:black;
+    font-size: 18px;
+    background-color: rgb(37, 47, 179);
+    width:100%;
+}
+.navbar-nav  li {
+    color:black;
+    font-size: 18px;
+    margin-top: 5px;
+}
+.visimisi{
+    margin-top: 15%;
+    margin-left: 25px;
+}
+.breadcrumb li{
+    font-size: 18px;
+    color: rgb(105, 105, 105);
+    font-family: serif;
+    margin-top: 2%;
+}
+.breadcrumb li a{
+    font-size: 18px;
+    color: rgb(105, 105, 105);
+    font-family: serif;
+    margin-top: 3%;
+     text-decoration: none;
+}
+.col-6 {
+    font-size: 18px;
+    color: rgb(31, 31, 31) ;
+    font-family: monospace;
+    text-decoration: none;
+    padding : 20px;
+}
+.card-titlee{
+    font-size: 20px;
+    color: rgb(31, 31, 31) ;
+    font-family: cursive;
+    text-decoration: none;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.nav-linkk{
+    font-size: 18px;
+    font-family: serif;
+    text-decoration: none;
+    color:rgb(37, 47, 179);
+}
+h2{
+    font-size: 22px;
+    color:rgb(37, 47, 179);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    color:rgb(51, 51, 51);
+    font-family: sans-serif;
+    text-align: left;
+     margin-top: 3%;
+     letter-spacing: 2px;
+}
+li{
+    font-size: 14px;
+    color:rgb(7, 7, 7);
+    font-family: sans-serif;
+    text-align: left;
+     margin-top: 3%;
+     letter-spacing: 2px;
+}
+ 
+
+.card-header{
+    text-align: left;
+    font-size: 18px;
+    font-style: initial;
+    font-weight: bold;
+    color: rgb(37, 47, 179);
+}
+.card-body a h5{
+    text-align: left;
+    font-size: 15px;
+    font-style: initial;
+    color: rgb(105, 105, 105);
+    margin-left: 15px;
+    
+}
+.fas.fa-caret-right{
+    color: rgb(37, 47, 179);
+    font-size: 15px;
+} 
+.card-bodyy a h5{
+    text-align: left;
+    font-size: 16px;
+    font-style: initial;
+    color: rgb(105, 105, 105);
+    margin-left:10px;
+    
+}
+.img{
+    margin-top: 5%;
+    margin-left: 80px;
+}
+.tiga{
+    margin-left: 44%;
+}
+h3{
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    font-style: initial;
+}
+.btn{
+    background-color: rgb(37, 47, 179);
+}
+b{
+    font-size: 20px;
+}
+ 
+.fas.fa-user-circle{
+    font-size: 18px;
+}
+.fas.fa-hand-point-right{
+    font-size: 18px;
+
+}
+ 
+.footer{
+    background-color: rgb(37, 47, 179);
+    width: 100%;
+    margin-top: 150px;
+
+
+     
+}
+.lokasi{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.col-2{
+    margin-top: 10px;
+     
+}
+h1{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:white;
+}
+h1 span{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:rgb(247, 243, 20);
+}
+h4{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color:white;
+}
+.maps{
+    margin-left:40%;
+}
+.kaki {
+    background-color: black;
+    width: 100%;
+    height:30px;
+   
+}
+.kaki h5{
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
